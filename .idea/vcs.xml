@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Contact-Keeper" vcs="" />
+    <mapping directory="$PROJECT_DIR$/accordion-project" vcs="" />
+    <mapping directory="$PROJECT_DIR$/administrador-pacientes" vcs="" />
+    <mapping directory="$PROJECT_DIR$/bebidas-app" vcs="" />
+    <mapping directory="$PROJECT_DIR$/birthday-reminder" vcs="" />
+    <mapping directory="$PROJECT_DIR$/breaking-bad" vcs="" />
+    <mapping directory="$PROJECT_DIR$/cart-project" vcs="" />
+    <mapping directory="$PROJECT_DIR$/clima-app" vcs="" />
+    <mapping directory="$PROJECT_DIR$/contact-keeper-ui" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/control-presupuesto" vcs="" />
+    <mapping directory="$PROJECT_DIR$/cotizador-criptomonedas" vcs="" />
+    <mapping directory="$PROJECT_DIR$/cotizador-seguros" vcs="" />
+    <mapping directory="$PROJECT_DIR$/grocery-store-project" vcs="" />
+    <mapping directory="$PROJECT_DIR$/hero-game" vcs="" />
+    <mapping directory="$PROJECT_DIR$/hooks-crash-course" vcs="" />
+    <mapping directory="$PROJECT_DIR$/lorem-ipsum-project" vcs="" />
+    <mapping directory="$PROJECT_DIR$/menu-project" vcs="" />
+    <mapping directory="$PROJECT_DIR$/music-app" vcs="" />
+    <mapping directory="$PROJECT_DIR$/navbar-project" vcs="" />
+    <mapping directory="$PROJECT_DIR$/quiz-app" vcs="" />
+    <mapping directory="$PROJECT_DIR$/random-quote-machine" vcs="" />
+    <mapping directory="$PROJECT_DIR$/react-projects" vcs="" />
+    <mapping directory="$PROJECT_DIR$/reactProjects" vcs="" />
+    <mapping directory="$PROJECT_DIR$/reviews-project" vcs="" />
+    <mapping directory="$PROJECT_DIR$/sidebar-project" vcs="" />
+    <mapping directory="$PROJECT_DIR$/space-news-app" vcs="" />
+    <mapping directory="$PROJECT_DIR$/stripe-project" vcs="" />
+    <mapping directory="$PROJECT_DIR$/tabs-project" vcs="" />
+    <mapping directory="$PROJECT_DIR$/todo-list" vcs="" />
+    <mapping directory="$PROJECT_DIR$/tours-project" vcs="" />
+    <mapping directory="$PROJECT_DIR$/tribute-page-project" vcs="" />
+    <mapping directory="$PROJECT_DIR$/weather-app" vcs="" />
+  </component>
+</project>
