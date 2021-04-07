@@ -2,14 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="248be71b-541c-46fb-965c-f83180feefe5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact-keeper-ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buscador-noticias/src/Components/Formulario.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buscador-noticias/src/Components/Formulario.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buscador-noticias/src/Components/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buscador-noticias/src/Components/ListadoNoticias.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buscador-noticias/src/Components/Noticia.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buscador-noticias/src/Hooks/useSelect.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hello" beforeDir="false" afterPath="$PROJECT_DIR$/Hello" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true" />
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
@@ -82,7 +89,10 @@
       <workItem from="1617481490507" duration="4949000" />
       <workItem from="1617500216305" duration="2123000" />
       <workItem from="1617502845529" duration="72000" />
-      <workItem from="1617502944295" duration="941000" />
+      <workItem from="1617502944295" duration="3815000" />
+      <workItem from="1617726989963" duration="40000" />
+      <workItem from="1617751889578" duration="28000" />
+      <workItem from="1617751981049" duration="5723000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1617480034034</created>
@@ -105,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617501412742</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="new commit">
+      <created>1617505193299</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1617505193299</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,6 +144,6 @@
     <MESSAGE value="commit" />
     <MESSAGE value="another commit" />
     <MESSAGE value="new commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="new commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
 </project>
